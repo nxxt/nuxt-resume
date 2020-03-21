@@ -40,7 +40,7 @@
     "eslint-plugin-prettier": "3.1.2",
     "jest": "25.1.0",
     "md5": "2.2.1",
-    "prettier": "1.19.1",
+    "prettier": "2.0.1",
     "remove-markdown": "0.3.0",
     "request": "2.88.2",
     "request-promise": "4.2.5",
